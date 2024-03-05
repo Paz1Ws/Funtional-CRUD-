@@ -1,0 +1,6 @@
+@FinalBackendProject_HostAddress = http://localhost:7011
+
+GET {{FinalBackendProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
